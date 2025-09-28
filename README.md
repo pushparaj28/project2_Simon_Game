@@ -20,3 +20,8 @@ HTML – For structuring the game layout
 CSS – For styling and animations
 
 JavaScript – For game logic, sequence generation, and user interactions
+
+https://pushparaj28.github.io/project2_Simon_Game/
+https://pushparaj28.github.io/project2_Simon_Game/
+https://pushparaj28.github.io/project2_Simon_Game/
+https://pushparaj28.github.io/project2_Simon_Game/
